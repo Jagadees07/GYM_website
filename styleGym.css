@@ -1,0 +1,281 @@
+* {
+	font-family: Josefin Sans;
+	/*background-color: #232222;*/
+	color: black;
+}
+#navbarsExample08 {
+	background-color: transparent;
+}
+.nav-link {
+	margin-right: 10px;
+	font-size: 16px;
+}
+.nav-link:hover {
+	text-decoration: underline;
+}
+/*====================
+		Logo
+======================*/
+.container-fluid > img {
+	width: 110px;
+	height: 75px;
+	margin-left: 20px;
+}
+#logo {
+	opacity: 1;
+}
+/* Centered text */
+.centered {
+  position: absolute;
+  top: 60%;
+  left: 51%;
+  transform: translate(-50%, -50%);
+  font-weight: 600;
+}
+.centered1 {
+  position: absolute;
+  top: 70%;
+  left: 50.5%;
+  transform: translate(-50%, -50%);
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.container > img {
+	margin-left: -130px;
+	width: 1371px;
+	height: 635px;
+	opacity: 0.89;
+}
+span {
+	color: darkorange;
+	font-size: 23px;
+}
+.events {
+	font-size: 30px;
+	font-weight: bold;
+}
+/*=======================
+	UPCOMING EVENTS
+=========================*/
+.awesome {
+	background-color: #2b2927;
+	padding-bottom: 15px;
+}
+.first img {
+	margin-top: 15px;
+	margin-left: 0px;
+	width: 260px;
+	height: 150px;
+}
+.second img {
+	margin-top: 15px;
+	margin-left: 0px;
+	width: 260px;
+	height: 150px;
+}
+.third img {
+	margin-top: 15px;
+	margin-left: 0px;
+	width: 260px;
+	height: 150px;
+}
+.forth img {
+	margin-top: 15px;
+	margin-left: 0px;
+	width: 260px;
+	height: 150px;
+}
+h3 {
+	padding-top: 15px;
+}
+
+h5 {
+	text-align: center;
+	padding: 5px;
+}
+.cards {
+	margin-top: -8px; 
+	padding-top: 5px;
+}
+.awesome i {
+	color: darkorange;
+	font-size: 25px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+/*=======================
+	TRAINERS
+=========================*/
+#gallary {
+	background-color: darkorange;
+	padding-bottom: 15px; 
+}
+.trainer {
+	color: black;
+	font-size: 32px;
+	font-weight: bold;
+}
+#person1 {
+	background-color: #0f0e0e;
+	width: 750px;
+	height: 170px;
+	margin-top: 25px;
+	margin-left: 115px;
+}	
+#coach1 {
+	width: 220px;
+	height: 170px;
+	margin-left: -37px;
+}
+#name {
+	margin-left: -130px;
+	margin-top: 10px;
+}
+.basket {
+	font-size: 20px;
+}
+.about1 {
+	color: gray;
+}
+#icons {
+	color: whitesmoke;
+	margin-right: 15px;
+	font-weight: none;
+}
+/*Person2*/
+#person2 {
+	background-color: whitesmoke;
+	width: 750px;
+	height: 170px;
+	margin-left: 115px;
+	margin-top: 20px;
+}	
+#coach2 {
+	width: 230px;
+	height: 170px;
+	margin-left: -35px;
+}
+#name {
+	margin-left: -130px;
+	margin-top: 10px;
+}
+.basket {
+	font-size: 20px;
+}
+.about2 {
+	color: gray;
+}
+#icons1 {
+	color: black;
+	margin-right: 15px;
+	font-weight: none;
+}
+#aside {
+	background-color: #0f0e0e;
+	float: right;
+	margin-top: -375px;
+	margin-right: -550px;
+	width: 310px;
+	height: 360px;
+}
+#arnold {
+	width: 287px;
+	height: 211px;
+	margin-left: 11px;
+	margin-right: 11px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+/*===========================
+	 Membership
+=============================*/
+.membership {
+	background-color: #2b2927;
+	padding-bottom: 30px;
+}
+h3 {
+	color: whitesmoke;
+	font-weight: lighter;
+	font-size: 28px;
+}
+.member {
+	font-size: 30px;
+	font-weight: bold;
+	color: darkorange;
+}
+.mp {
+	margin-top: 30px;
+	margin-left: 100px;
+}
+
+.pack1 {
+	margin-top: -8px;
+	padding-top: 8px;
+	padding-bottom: 15px;
+}	
+.pack2 {
+	margin-top: -8px;
+	padding-top: 8px;
+	padding-bottom: 15px;
+}
+.pack3 {
+	margin-top: -8px;
+	padding-top: 8px;
+	padding-bottom: 15px;
+}		
+.pack-1 {
+	font-size: 45px;
+}
+.pack-1 sup {
+	font-size: 20px;
+	margin-right: -30px;
+	margin-bottom: -10px;
+}
+.pack-1 sub {
+	font-size: 20px;
+}
+
+.button1 {
+	font-size: 15px;
+	padding: 14px;
+}
+.button2 {
+	font-size: 15px;
+	font-weight: bold;
+	color: black;
+	padding: 14px;
+}
+.button3 {
+	font-size: 15px;
+	padding: 14px;
+}
+.package {
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+/*===========================
+	 Footer
+=============================*/
+.footer {
+	background-color: black;
+}
+#timing {
+	color: whitesmoke;
+}
+.col-sm-3 p span {
+	font-size: 15px;
+}
+#icon {
+	margin-right: 10px;
+	color: whitesmoke;
+}
+#firstlast {
+	float: left;
+}
+#secondlast {
+	float: right;
+}
